@@ -9,6 +9,12 @@
 
 `PasswordAuthentication no`
 
-* Save file by hitting escape key and typing in:
+* Save file by hitting escape key and typing in shorthand for 'write, quit, save':
 
 `:wq!`
+
+# Disable Root login
+
+* Follow the same steps as above but also ensure PermitLogin is set to no
+
+`PermitRootLogin no`
