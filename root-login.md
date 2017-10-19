@@ -21,7 +21,7 @@ PasswordAuthentication no
 
 # Disable Root login
 
-* Follow the same steps as above but also ensure PermitLogin is set to no
+* Follow the same steps as above but also ensure PermitRootLogin is set to no
 
 ```
 PermitRootLogin no
